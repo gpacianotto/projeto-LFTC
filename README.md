@@ -1,5 +1,5 @@
-Alunos: 
+# Alunos: 
 
-Guilherme Pacianotto
-Andrey Cunha
-João Pedro Baptista
+- Guilherme Pacianotto
+- Andrey Cunha
+- João Pedro Baptista
