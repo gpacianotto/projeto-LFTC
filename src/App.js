@@ -41,6 +41,11 @@ function App() {
           <Route path="/regex" element={<Regex/>}/>
            
         </Routes>
+        <Row className='text-center'>
+          <Col>
+            <h4>feito por: Guilherme de Aguiar Pacianotto, João Pedro Silva Baptista, Andrey Cunha Barreira de Araujo</h4>
+          </Col>
+        </Row>
       </Router>
     </div>
   );
