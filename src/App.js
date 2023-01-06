@@ -11,6 +11,7 @@ import {Row, Col} from 'reactstrap'
 import Regex from './Components/Regex';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Grammar from './Components/Grammar';
+import AutoFin from './Components/AutoFin';
 
 function App() {
   return (
@@ -29,19 +30,22 @@ function App() {
     //       Learn React
     //     </a>
     //   </header>
+    //
     // </div>
     <div>
       <Router>
         <Row className='p-2'>
-          <Col lg="4"><Link to="/">HOME</Link></Col>
-          <Col lg="4"><Link to="/regex">REGEX</Link></Col>
-          <Col lg="4"><Link to="/grammar">GRAMÁTICA</Link></Col>
+          <Col lg="3"><Link to="/">HOME</Link></Col>
+          <Col lg="3"><Link to="/regex">REGEX</Link></Col>
+          <Col lg="3"><Link to="/grammar">GRAMÁTICA</Link></Col>
+          <Col lg="3"><Link to="/automatos">AUTOMATOS</Link></Col>
         </Row>
         
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/regex" element={<Regex/>}/>
           <Route path="/grammar" element={<Grammar/>}></Route>
+          <Route path="/automatos" element={<AutoFin/>}/>
            
         </Routes>
         <Row className='text-center'>
