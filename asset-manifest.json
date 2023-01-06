@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/projeto-LFTC/static/css/main.a102879e.css",
-    "main.js": "/projeto-LFTC/static/js/main.b8223251.js",
-    "static/js/787.533471f0.chunk.js": "/projeto-LFTC/static/js/787.533471f0.chunk.js",
+    "main.js": "/projeto-LFTC/static/js/main.01e3b9f0.js",
+    "static/js/377.1dc01491.chunk.js": "/projeto-LFTC/static/js/377.1dc01491.chunk.js",
     "static/media/logo.svg": "/projeto-LFTC/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/projeto-LFTC/index.html",
     "main.a102879e.css.map": "/projeto-LFTC/static/css/main.a102879e.css.map",
-    "main.b8223251.js.map": "/projeto-LFTC/static/js/main.b8223251.js.map",
-    "787.533471f0.chunk.js.map": "/projeto-LFTC/static/js/787.533471f0.chunk.js.map"
+    "main.01e3b9f0.js.map": "/projeto-LFTC/static/js/main.01e3b9f0.js.map",
+    "377.1dc01491.chunk.js.map": "/projeto-LFTC/static/js/377.1dc01491.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a102879e.css",
-    "static/js/main.b8223251.js"
+    "static/js/main.01e3b9f0.js"
   ]
 }
